@@ -1,0 +1,4 @@
+set buffer name with index and cmd
+hide numbers in splits
+make :{count}T! {cmd} remove buffer
+make :{count}T {cmd}
